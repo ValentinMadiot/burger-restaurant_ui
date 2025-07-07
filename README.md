@@ -1,6 +1,6 @@
 <div align="center">  
     <a href="https://burger-restaurant-vm.netlify.app/" target="_blank">  
-      <img src="docs/burger-restaurant_ui_img.png" alt="Aperçu du projet">  
+      <img src=".docs/preview.png" alt="Aperçu du projet">  
     </a>
     </br>  
     </br>  
